@@ -66,8 +66,7 @@ In modern financial architecture, predictions from this model map directly into 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/credit-card-fraud-detection.git](https://github.com/your-username/credit-card-fraud-detection.git)
-   ```
+   git clone https://github.com/khairulikhwan-git/credit-card-fraud-detection.git   ```
 2. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
